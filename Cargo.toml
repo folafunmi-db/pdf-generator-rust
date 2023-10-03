@@ -22,5 +22,3 @@ env_logger = "0.8.4"
 
 rust-ini = "0.16.1"
 
-[toolchain]
-channel = "nightly"
