@@ -22,3 +22,7 @@ env_logger = "0.8.4"
 
 rust-ini = "0.16.1"
 
+
+[[bin]]
+name = "pdf-generator"
+path = "src/main.rs"
